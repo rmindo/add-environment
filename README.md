@@ -1,6 +1,6 @@
 ## Add environment
 
-A simple bash script to add an environment
+A simple bash script to add environment
 
 ## Usage
 
